@@ -128,8 +128,8 @@ export default function Home() {
               viewport={{ once: true }}
               className="text-center"
             >
-              <div className="text-3xl font-bold text-primary mb-2">2+</div>
-              <div className="text-muted-foreground">Years Experience</div>
+              <div className="text-3xl font-bold text-primary mb-2">1</div>
+              <div className="text-muted-foreground">Year Experience</div>
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
