@@ -6,7 +6,7 @@ import sys
 from datetime import datetime
 
 # Base URL from environment
-BASE_URL = "https://9dcb4c75-9f44-4c4e-94fe-1720857bde0c.preview.emergentagent.com"
+BASE_URL = "Give Your URL"
 
 def test_main_api_endpoint():
     """Test the main API endpoint GET /api"""
